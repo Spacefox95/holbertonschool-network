@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Display the ICMP and ping value
 if [ "$#" -ne 1 ]; 
 then
